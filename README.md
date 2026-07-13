@@ -27,8 +27,7 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
 ### 4. Sales Performance Dashboard
 * **Tools Used:** Microsoft Excel (Advanced Formulas, Interactive Charts, Dashboards)
 * **Description:** Developed a dynamic tracking dashboard evaluating key sales performance indicators (KPIs), year-over-year revenue growth, and regional performance trends to support sales operations.
-* **Project Link:** [View Project Folder]
-  (./Excel-Sales-Performance-Project](https://github.com/Beth2676/My_Portfolio/tree/main/Excel%20-Sales-Performance-Project)
+* **Project Link:** [View Project Folder](Excel-Sales-Performance-Project)
 
 ### 5. Interactive Power BI Visualizations
 * **Tools Used:** Power BI / DAX / Data Modeling
