@@ -11,7 +11,7 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
 ### 1. Bank Customer Churn Analysis
 * **Tools Used:** Microsoft Excel (Pivot Tables, Power Query, Conditional Formatting)
 * **Description:** An in-depth analysis investigating the key drivers behind customer attrition. This project identifies high-risk customer segments and provides data-driven recommendations to optimize customer retention strategies.
-* **Project Link:** [View Project Folder](./Excel-Bank-Customer-Churn-Analysis)
+* **Project Link:** [View Project Folder](https://github.com/Beth2676/My_Portfolio/tree/main/Excel-Bank-Customer-Churn-Analysis)
 
 ### 2. Exploratory Data Analysis in SQL
 * **Tools Used:** SQL (Joins, Subqueries, CTEs, Window Functions)
