@@ -16,7 +16,8 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
 ### 2. Exploratory Data Analysis in SQL
 * **Tools Used:** SQL (Joins, Subqueries, CTEs, Window Functions)
 * **Description:** Advanced exploratory data analysis focusing on uncovering global layoff trends, patterns, and anomalies. Utilized complex queries and aggregations to extract meaningful business metrics from raw datasets.
-* **Project Link:** [View SQL Script](./[https://github.com/Beth2676/My_Portfolio/tree/main/Data_Exploratory_Analysis-In_SQL](https://github.com/Beth2676/My_Portfolio/blob/main/Data_Exploratory_Analysis-In_SQL/Exploratory_Data_Analysis_In-SQL.sql))
+* **Project Link:** [View SQL Script]
+  (./[https://github.com/Beth2676/My_Portfolio/tree/main/Data_Exploratory_Analysis-In_SQL](https://github.com/Beth2676/My_Portfolio/blob/main/Data_Exploratory_Analysis-In_SQL/Exploratory_Data_Analysis_In-SQL.sql))
 
 ### 3. SQL Data Cleaning Project
 * **Tools Used:** SQL (Data Transformation, Standardizing, De-duplication)
