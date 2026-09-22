@@ -31,7 +31,7 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
   * **Revenue Drivers:** LATAM ($6.5M) and Europe ($6.1M) generate the vast majority of sales, while USCA ($0.05M) and Africa ($0.3M) lag behind.
   * **Customer Segment:** Consumer is the dominant revenue stream across all markets (51% globally), followed by Corporate (30%) and Home Office (18%).
   * **Q4 Seasonality Bottleneck:** Uncovered a severe November sales drop (-40% globally) before a December rebound, pointing to potential inventory or supply chain issues.
-  * **Strategic Recommendations:**
+* **Strategic Recommendations:**
   * **Inventory & Q4 Audit:** Investigate November supply chain dynamics to prevent peak-          season revenue loss.
   * **Targeted Allocation:** Prioritize marketing and retention budget on top-performing LATAM and European Consumer segments.
   * **Market Review:** Assess product-market fit in low-performing regions (USCA, Pacific Asia) to optimize strategy.
