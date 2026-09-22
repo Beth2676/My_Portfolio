@@ -26,7 +26,15 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
 
 ### 4. Sales Performance Dashboard
 * **Tools Used:** Microsoft Excel (Advanced Formulas, Interactive Charts, Dashboards)
-* **Description:** Developed a dynamic tracking dashboard evaluating key sales performance indicators (KPIs), year-over-year revenue growth, and regional performance trends to support sales operations.
+* **Description:** Developed a dynamic tracking dashboard evaluating key sales performance indicators (KPIs), month-over-month revenue growth, and regional performance trends to support sales operations.
+* **Key Analytical Insights:**
+  * **Revenue Drivers:** LATAM ($6.5M) and Europe ($6.1M) generate the vast majority of sales, while USCA ($0.05M) and Africa ($0.3M) lag behind.
+  * **Customer Segment:** Consumer is the dominant revenue stream across all markets (51% globally), followed by Corporate (30%) and Home Office (18%).
+  * **Q4 Seasonality Bottleneck:** Uncovered a severe November sales drop (-40% globally) before a December rebound, pointing to potential inventory or supply chain issues.
+  * **Strategic Recommendations:**
+  * **Inventory & Q4 Audit:** Investigate November supply chain dynamics to prevent peak-          season revenue loss.
+  * **Targeted Allocation:** Prioritize marketing and retention budget on top-performing LATAM and European Consumer segments.
+  * **Market Review:** Assess product-market fit in low-performing regions (USCA, Pacific Asia) to optimize strategy.
 * **Project Link:** [View Project Folder](Excel-Sales-Performance-Project](https://github.com/Beth2676/My_Portfolio/blob/main/Excel%20-Sales-Performance-Project/Excel%20Sales_Performance.xlsx)
 
 ### 5. Interactive Power BI Visualizations
