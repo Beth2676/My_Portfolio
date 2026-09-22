@@ -26,7 +26,7 @@ I leverage **SQL, Excel, and Power BI** to transform raw, complex datasets into 
 
 ### 4. Sales Performance Dashboard
 * **Tools Used:** Microsoft Excel (Advanced Formulas, Interactive Charts, Dashboards)
-* **Description:** Developed a dynamic tracking dashboard evaluating key sales performance indicators (KPIs), month-over-month revenue growth, and regional performance trends to support sales operations.
+* **Description:** Developed a dynamic tracking dashboard evaluating key sales performance indicators (KPIs), month-over-month percentage change, and regional performance trends to support sales operations.
 * **Key Analytical Insights:**
   * **Revenue Drivers:** LATAM ($6.5M) and Europe ($6.1M) generate the vast majority of sales, while USCA ($0.05M) and Africa ($0.3M) lag behind.
   * **Customer Segment:** Consumer is the dominant revenue stream across all markets (51% globally), followed by Corporate (30%) and Home Office (18%).
